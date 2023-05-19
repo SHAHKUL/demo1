@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conatainer{
+    border: 10px dotted yellow;
+    height: 400px;
+    width: 600px;
+    margin: 40px;
+    position:relative;
+    /* background: green; */
+    background-color: red;
+    background-clip: padding-box;
+   
+}
+/* 
+.box{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+ 
+}
+
+.three{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.two{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+ */
+
+
+
+
+
+
+

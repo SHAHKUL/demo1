@@ -1,0 +1,37 @@
+.parent {
+
+  
+    border: 1px solid black;
+    padding: 5px;
+    margin: 50px;
+    width: 600px;
+    height: 200vh;
+}
+
+
+.box {
+
+
+    display: inline-block;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    padding: 5px;
+}
+
+#one {
+    position: relative;
+    top: 10px;
+    right: 0;
+   
+ 
+
+}
+
+#four {
+    position: fixed;
+    top: 200px;
+    left: 500px;
+
+}
